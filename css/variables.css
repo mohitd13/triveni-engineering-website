@@ -1,0 +1,44 @@
+
+:root{
+
+    /* Colors */
+
+    --primary:#0F3D5E;
+
+    --secondary:#1F2937;
+
+    --accent:#F59E0B;
+
+    --light:#F8FAFC;
+
+    --white:#FFFFFF;
+
+    --text:#4B5563;
+
+    --border:#E5E7EB;
+
+    /* Typography */
+
+    --font:'Poppins',sans-serif;
+
+    /* Container */
+
+    --container-width:1200px;
+
+    /* Spacing */
+
+    --section-padding:100px 0;
+
+    /* Radius */
+
+    --radius:14px;
+
+    /* Shadow */
+
+    --shadow:0 10px 30px rgba(0,0,0,.08);
+
+    /* Transition */
+
+    --transition:.35s ease;
+
+}
